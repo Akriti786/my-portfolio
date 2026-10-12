@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-portfolio-chi-cyan-56.vercel.app/sitemap.xml
